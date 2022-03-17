@@ -1,1 +1,1 @@
-# hello_world
+Hibernate Basic Code
